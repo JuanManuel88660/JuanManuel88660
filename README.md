@@ -6,7 +6,8 @@
 
 ### 🚀 Tecnologías que manejo
 
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,js,ts,php,html,css,nodejs,react,laravel,mysql,mongodb,canva)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,js,ts,php,html,css,nodejs,react,laravel,mysql,postgres,mongodb,canva)](https://skillicons.dev)
+
 
 
 ---
