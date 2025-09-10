@@ -4,9 +4,10 @@
 
 ---
 
-### 🚀 Tecnologías que manejo
+### 🚀 Tecnologías que manejo  
 
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,js,ts,php,html,css,nodejs,react,laravel,mysql,postgres,mongodb,canva)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,js,ts,php,html,css,nodejs,react,nextjs,nestjs,laravel,figma,mysql,postgres,mongodb,canva)](https://skillicons.dev)
+
 
 
 
